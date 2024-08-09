@@ -19,4 +19,3 @@ This Chrome extension is designed to streamline email management for an internat
 - **Gmail API**: Interface with Gmail to manage and classify emails.
 - **Snowflake**: Secure storage and management of processed email data.
 
-Snowflake: Secure storage and management of processed email data.
